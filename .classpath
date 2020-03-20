@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="Library/commons-fileupload-1.3.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/commons-io-2.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/Java Mail/dsn.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/Java Mail/imap.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/Java Mail/mailapi.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/Java Mail/pop3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/Java Mail/smtp.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/tomcat-catalina-8.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/tomcat-catalina-8.5.51.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/jdbc-oracle.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/jdbc-postgresql.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/WebContent/WEB-INF/lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Lib/jstl-1.2.jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/Library/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Ghi âm đồ án/Web/UNIFY-master/UNIFY-master/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
